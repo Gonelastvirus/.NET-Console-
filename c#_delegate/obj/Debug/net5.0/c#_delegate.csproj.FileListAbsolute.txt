@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/c#_delegate
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/c#_delegate.deps.json
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/c#_delegate.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/c#_delegate.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/c#_delegate.dll
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/ref/c#_delegate.dll
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/bin/Debug/net5.0/c#_delegate.pdb
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.dll
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/ref/c#_delegate.dll
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.pdb
+/home/lastvirus/Desktop/.NET Lab/c#_delegate/obj/Debug/net5.0/c#_delegate.genruntimeconfig.cache

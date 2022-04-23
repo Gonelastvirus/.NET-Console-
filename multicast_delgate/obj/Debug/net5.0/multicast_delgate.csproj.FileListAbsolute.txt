@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/multicast_delgate
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/multicast_delgate.deps.json
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/multicast_delgate.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/multicast_delgate.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/multicast_delgate.dll
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/ref/multicast_delgate.dll
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/bin/Debug/net5.0/multicast_delgate.pdb
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.dll
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/ref/multicast_delgate.dll
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.pdb
+/home/lastvirus/Desktop/.NET Lab/multicast_delgate/obj/Debug/net5.0/multicast_delgate.genruntimeconfig.cache

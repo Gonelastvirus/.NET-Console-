@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/overloading
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/overloading.deps.json
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/overloading.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/overloading.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/overloading.dll
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/ref/overloading.dll
+/home/lastvirus/Desktop/.NET Lab/overloading/bin/Debug/net5.0/overloading.pdb
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.dll
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/ref/overloading.dll
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.pdb
+/home/lastvirus/Desktop/.NET Lab/overloading/obj/Debug/net5.0/overloading.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/vritual_function
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/vritual_function.deps.json
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/vritual_function.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/vritual_function.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/vritual_function.dll
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/ref/vritual_function.dll
+/home/lastvirus/Desktop/.NET Lab/vritual_function/bin/Debug/net5.0/vritual_function.pdb
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.dll
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/ref/vritual_function.dll
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.pdb
+/home/lastvirus/Desktop/.NET Lab/vritual_function/obj/Debug/net5.0/vritual_function.genruntimeconfig.cache

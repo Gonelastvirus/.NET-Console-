@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/inheritence
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/inheritence.deps.json
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/inheritence.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/inheritence.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/inheritence.dll
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/ref/inheritence.dll
+/home/lastvirus/Desktop/.NET Lab/inheritence/bin/Debug/net5.0/inheritence.pdb
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.dll
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/ref/inheritence.dll
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.pdb
+/home/lastvirus/Desktop/.NET Lab/inheritence/obj/Debug/net5.0/inheritence.genruntimeconfig.cache

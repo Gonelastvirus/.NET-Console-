@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/prime
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/prime.deps.json
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/prime.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/prime.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/prime.dll
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/ref/prime.dll
+/home/lastvirus/Desktop/.NET Lab/prime/bin/Debug/net5.0/prime.pdb
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.dll
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/ref/prime.dll
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.pdb
+/home/lastvirus/Desktop/.NET Lab/prime/obj/Debug/net5.0/prime.genruntimeconfig.cache

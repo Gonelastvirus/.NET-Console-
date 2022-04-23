@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/constructor_overloading
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/constructor_overloading.deps.json
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/constructor_overloading.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/constructor_overloading.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/constructor_overloading.dll
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/ref/constructor_overloading.dll
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/bin/Debug/net5.0/constructor_overloading.pdb
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.dll
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/ref/constructor_overloading.dll
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.pdb
+/home/lastvirus/Desktop/.NET Lab/constructor_overloading/obj/Debug/net5.0/constructor_overloading.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/queue_s
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/queue_s.deps.json
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/queue_s.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/queue_s.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/queue_s.dll
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/ref/queue_s.dll
+/home/lastvirus/Desktop/.NET Lab/queue_s/bin/Debug/net5.0/queue_s.pdb
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.dll
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/ref/queue_s.dll
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.pdb
+/home/lastvirus/Desktop/.NET Lab/queue_s/obj/Debug/net5.0/queue_s.genruntimeconfig.cache

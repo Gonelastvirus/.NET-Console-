@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "access_base_class_consructor/1.0.0": {
+        "runtime": {
+          "access_base_class_consructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "access_base_class_consructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

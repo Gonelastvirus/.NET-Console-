@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/sealed_class
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/sealed_class.deps.json
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/sealed_class.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/sealed_class.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/sealed_class.dll
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/ref/sealed_class.dll
+/home/lastvirus/Desktop/.NET Lab/sealed_class/bin/Debug/net5.0/sealed_class.pdb
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.dll
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/ref/sealed_class.dll
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.pdb
+/home/lastvirus/Desktop/.NET Lab/sealed_class/obj/Debug/net5.0/sealed_class.genruntimeconfig.cache

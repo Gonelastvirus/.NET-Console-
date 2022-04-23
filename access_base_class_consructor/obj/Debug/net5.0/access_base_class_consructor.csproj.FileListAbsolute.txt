@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/access_base_class_consructor
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/access_base_class_consructor.deps.json
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/access_base_class_consructor.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/access_base_class_consructor.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/access_base_class_consructor.dll
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/ref/access_base_class_consructor.dll
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/bin/Debug/net5.0/access_base_class_consructor.pdb
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.dll
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/ref/access_base_class_consructor.dll
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.pdb
+/home/lastvirus/Desktop/.NET Lab/access_base_class_consructor/obj/Debug/net5.0/access_base_class_consructor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/refrence_type_parameter
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/refrence_type_parameter.deps.json
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/refrence_type_parameter.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/refrence_type_parameter.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/refrence_type_parameter.dll
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/ref/refrence_type_parameter.dll
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/bin/Debug/net5.0/refrence_type_parameter.pdb
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.dll
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/ref/refrence_type_parameter.dll
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.pdb
+/home/lastvirus/Desktop/.NET Lab/refrence_type_parameter/obj/Debug/net5.0/refrence_type_parameter.genruntimeconfig.cache

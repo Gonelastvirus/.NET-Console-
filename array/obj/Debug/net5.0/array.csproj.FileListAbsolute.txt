@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/array
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/array.deps.json
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/array.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/array.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/array.dll
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/ref/array.dll
+/home/lastvirus/Desktop/.NET Lab/array/bin/Debug/net5.0/array.pdb
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.dll
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/ref/array.dll
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.pdb
+/home/lastvirus/Desktop/.NET Lab/array/obj/Debug/net5.0/array.genruntimeconfig.cache

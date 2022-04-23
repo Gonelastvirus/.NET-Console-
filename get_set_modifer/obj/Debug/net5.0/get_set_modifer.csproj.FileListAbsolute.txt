@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/get_set_modifer
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/get_set_modifer.deps.json
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/get_set_modifer.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/get_set_modifer.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/get_set_modifer.dll
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/ref/get_set_modifer.dll
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/bin/Debug/net5.0/get_set_modifer.pdb
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.dll
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/ref/get_set_modifer.dll
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.pdb
+/home/lastvirus/Desktop/.NET Lab/get_set_modifer/obj/Debug/net5.0/get_set_modifer.genruntimeconfig.cache

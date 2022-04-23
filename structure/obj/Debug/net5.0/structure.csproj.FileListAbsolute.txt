@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/structure
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/structure.deps.json
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/structure.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/structure.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/structure.dll
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/ref/structure.dll
+/home/lastvirus/Desktop/.NET Lab/structure/bin/Debug/net5.0/structure.pdb
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.dll
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/ref/structure.dll
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.pdb
+/home/lastvirus/Desktop/.NET Lab/structure/obj/Debug/net5.0/structure.genruntimeconfig.cache

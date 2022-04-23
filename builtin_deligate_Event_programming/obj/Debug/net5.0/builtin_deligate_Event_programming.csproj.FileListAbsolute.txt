@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/builtin_deligate_Event_programming
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/builtin_deligate_Event_programming.deps.json
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/builtin_deligate_Event_programming.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/builtin_deligate_Event_programming.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/builtin_deligate_Event_programming.dll
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/ref/builtin_deligate_Event_programming.dll
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/bin/Debug/net5.0/builtin_deligate_Event_programming.pdb
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.dll
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/ref/builtin_deligate_Event_programming.dll
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.pdb
+/home/lastvirus/Desktop/.NET Lab/builtin_deligate_Event_programming/obj/Debug/net5.0/builtin_deligate_Event_programming.genruntimeconfig.cache

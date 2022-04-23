@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/file_handel
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/file_handel.deps.json
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/file_handel.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/file_handel.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/file_handel.dll
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/ref/file_handel.dll
+/home/lastvirus/Desktop/.NET Lab/file_handel/bin/Debug/net5.0/file_handel.pdb
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.dll
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/ref/file_handel.dll
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.pdb
+/home/lastvirus/Desktop/.NET Lab/file_handel/obj/Debug/net5.0/file_handel.genruntimeconfig.cache

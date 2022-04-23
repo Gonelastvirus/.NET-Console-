@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/outparameter
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/outparameter.deps.json
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/outparameter.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/outparameter.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/outparameter.dll
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/ref/outparameter.dll
+/home/lastvirus/Desktop/.NET Lab/outparameter/bin/Debug/net5.0/outparameter.pdb
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.dll
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/ref/outparameter.dll
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.pdb
+/home/lastvirus/Desktop/.NET Lab/outparameter/obj/Debug/net5.0/outparameter.genruntimeconfig.cache

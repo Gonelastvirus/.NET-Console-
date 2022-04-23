@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/linq_whereClause
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/linq_whereClause.deps.json
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/linq_whereClause.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/linq_whereClause.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/linq_whereClause.dll
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/ref/linq_whereClause.dll
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/bin/Debug/net5.0/linq_whereClause.pdb
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.dll
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/ref/linq_whereClause.dll
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.pdb
+/home/lastvirus/Desktop/.NET Lab/linq_whereClause/obj/Debug/net5.0/linq_whereClause.genruntimeconfig.cache

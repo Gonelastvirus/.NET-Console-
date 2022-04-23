@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/sum_of_two_numbers
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/sum_of_two_numbers.deps.json
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/sum_of_two_numbers.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/sum_of_two_numbers.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/sum_of_two_numbers.dll
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/ref/sum_of_two_numbers.dll
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/bin/Debug/net5.0/sum_of_two_numbers.pdb
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.dll
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/ref/sum_of_two_numbers.dll
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.pdb
+/home/lastvirus/Desktop/.NET Lab/sum_of_two_numbers/obj/Debug/net5.0/sum_of_two_numbers.genruntimeconfig.cache

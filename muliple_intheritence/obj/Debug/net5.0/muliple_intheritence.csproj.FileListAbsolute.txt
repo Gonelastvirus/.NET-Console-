@@ -1,0 +1,16 @@
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.csproj.AssemblyReference.cache
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.GeneratedMSBuildEditorConfig.editorconfig
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.AssemblyInfoInputs.cache
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.AssemblyInfo.cs
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.csproj.CoreCompileInputs.cache
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/muliple_intheritence
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/muliple_intheritence.deps.json
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/muliple_intheritence.runtimeconfig.json
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/muliple_intheritence.runtimeconfig.dev.json
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/muliple_intheritence.dll
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/ref/muliple_intheritence.dll
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/bin/Debug/net5.0/muliple_intheritence.pdb
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.dll
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/ref/muliple_intheritence.dll
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.pdb
+/home/lastvirus/Desktop/.NET Lab/muliple_intheritence/obj/Debug/net5.0/muliple_intheritence.genruntimeconfig.cache
